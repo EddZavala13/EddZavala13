@@ -1,0 +1,140 @@
+{
+    "meta": {
+      "theme": "elegant"
+    },
+    "basics": {
+      "name": "César Eduardo Zavala Hernández",
+      "label": "Computer Engineer",
+      "label2":"Backend Developer | Data Analyst Jr",
+      "picture": "https://avatars.githubusercontent.com/u/106541413?v=4",
+      "email": "eduarlalo132@gmail.com",
+      "phone": "+52 5520794627",
+      "summary": "Programmer with experience in the IT area. I consider myself as a person capable of solving problems that arise in a creative and responsible way, likewise, I consider myself a great partner within a work team.",
+      "location": {
+        "countryCode": "MX",
+        "address": "Guadalajara, Jalisco, México"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "eduardozavala13",
+          "url": "https://www.linkedin.com/in/eduardozavala13/"
+        },
+        {
+          "network": "GitHub",
+          "username": "EddZavala13",
+          "url": "https://github.com/EddZavala13"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Consultare",
+        "endDate": "2020-01-31",
+        "highlights": [],
+        "position": "IT Developer",
+        "startDate": "2022-07-01",
+        "summary": "Responsible for the ETL extracting information fromthe data source (DB or CSV) for transformation and loadinginto the DataWarehouse using Pentaho. Software development with Visual Studio for internal or customer use. Management of Oracle DB to implement schemas and data normalization.",
+        "website": "https://www.consultar.com.mx/"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Escuela Superior de Ingeniería Mecánica y Eléctrica (ESIME), Instituto Politécnico Nacional (IPN)",
+        "area": "Computer Engineering",
+        "studyType": "Bachelor's degree",
+        "startDate": "2018-08-06",
+        "endDate": "2022-06-23",
+        "gpa": "",
+        "courses": []
+      }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+      {
+        "name": "C",
+        "level": "Intermediate",
+        "keywords": ["Programming", "Development"]
+      },
+      {
+        "name": "C++",
+        "level": "Intermediate",
+        "keywords": ["Programming", "Development"]
+      },
+      {
+        "name": "Python",
+        "level": "Intermediate",
+        "keywords": ["Programming", "Development", "Data Analysis"]
+      },
+      {
+        "name": "SQL",
+        "level": "Intermediate",
+        "keywords": ["Data Analysis", "Database"]
+      },
+      {
+        "name": "C#",
+        "level": "Intermediate",
+        "keywords": ["Programming", "Development"]
+      },
+      {
+        "name": "Java",
+        "level": "Basic",
+        "keywords": ["Programming", "Development"]
+      },
+      {
+        "name": "GitHub",
+        "level": "Basic",
+        "keywords": ["Programming", "Development", "Version Control"]
+      },
+      {
+        "name": "Git",
+        "level": "Basic",
+        "keywords": ["Programming", "Development", "Version Control"]
+      }
+    ],
+    "languages": [
+      {
+        "language": "es",
+        "fluency": "Native Speaker"
+      },
+      {
+        "language": "en",
+        "fluency": "Conversationally Fluent"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Visual Studio",
+        "level": "Intermediate",
+        "keywords": ["Programming", "Development"]
+      },
+      {
+        "name": "Visual Studio Code",
+        "level": "Intermediate",
+        "keywords": ["Programming", "Development"]
+      },
+      {
+        "name": "Jupyter Notebooks",
+        "level": "Intermediate",
+        "keywords": ["Database", "Data Analysis"]
+      },
+      {
+        "name": "Pentaho",
+        "level": "Intermediate",
+        "keywords": ["ETL", "Data Analysis"]
+      },
+      {
+        "name": "Oracle SQL Developer",
+        "level": "Intermediate",
+        "keywords": ["Database", "Data Analysis"]
+      },
+      {
+        "name": "DBeaver",
+        "level": "Intermediate",
+        "keywords": ["Database", "Data Analysis"]
+      }
+    ],
+    "interests": ["Programming", "Development", "Data Analysis", "Databases", "Software Development", "ETL"],
+    "references": ["Available upon request"]
+  }
