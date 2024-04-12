@@ -8,7 +8,7 @@
 
 - 📊 I’m looking to collaborate on **BI Projects**
 
-- 📬 How to reach me **eduarlalo132@gmail.com**
+- 📬 How to reach me **ceduardozavalahdz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
