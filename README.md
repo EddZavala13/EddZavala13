@@ -4,7 +4,7 @@
 
 - 🖥️ I’m currently working at **Consultare BI**
 
-- 📖 I’m currently learning **Django, ReactPy, Flask, Airflow, Spark**
+- 📖 I’m currently learning **Django, Flet, Flask, Airflow, Spark**
 
 - 📊 I’m looking to collaborate on **BI Projects**
 
