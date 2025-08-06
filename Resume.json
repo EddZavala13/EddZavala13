@@ -12,7 +12,7 @@
       "summary": "Programmer with experience in the IT area. I consider myself as a person capable of solving problems that arise in a creative and responsible way, likewise, I consider myself a great partner within a work team.",
       "location": {
         "countryCode": "MX",
-        "address": "Guadalajara, Jalisco, México"
+        "address": "Mexico City, Mexico"
       },
       "profiles": [
         {
@@ -120,6 +120,11 @@
         "keywords": ["Database", "Data Analysis"]
       },
       {
+        "name": "Pandas",
+        "level": "Intermediate",
+        "keywords": ["Dataframe", "Data Analysis"]
+      },
+      {
         "name": "Pentaho",
         "level": "Intermediate",
         "keywords": ["ETL", "Data Analysis"]
@@ -138,3 +143,4 @@
     "interests": ["Programming", "Development", "Data Analysis", "Databases", "Software Development", "ETL"],
     "references": ["Available upon request"]
   }
+
